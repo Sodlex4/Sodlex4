@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Skills
-- HTML | CSS | JavaScript | Bootstrap | React (Learning)
+- HTML | CSS | JavaScript(vanilla) | Bootstrap | React (Learning)
 - UI Design | Responsive Layouts | Git & GitHub
 
 ---
