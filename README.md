@@ -24,9 +24,9 @@
 ## 📫 How to Reach Me
 - Email: **[stephenodongo532@gmail.com]**
 - GitHub: [@Sodlex4](https://github.com/Sodlex4)
-- Portfolio: [Coming Soon...]
+- Portfolio: [Coming Soon..]
 
 ---
 
 ## ⚡ Fun Fact  
-I balance code with cardio — gym in the morning, GitHub at night 💪💻  
+I balance code with cardio — gym in the morning, GitHub at night 💪💻 Multi-tasking Guru.  
