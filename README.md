@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Stephen Odonde (@Sodlex4)
+ 👋 Hi, I’m Stephen Odonde (@Sodlex4)
 
 💻 Self-taught Front-End Developer with a passion for turning ideas into interactive web apps.  
 🏋️‍♂️ Also a certified Gym Trainer and founder of Murang’a Pride Boxing Academy.  
