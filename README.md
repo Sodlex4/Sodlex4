@@ -24,7 +24,7 @@
 ## 📫 How to Reach Me
 - Email: **[stephenodongo532@gmail.com]**
 - GitHub: [@Sodlex4](https://github.com/Sodlex4)
-- Portfolio: [Coming Soon..]
+- Portfolio: [Coming Soon..]..
 
 ---
 
