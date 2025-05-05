@@ -11,7 +11,7 @@
 ## 💡 What I'm Working On
 - A GymApp built with HTML, CSS, JS, and React
 - A Portfolio Website using Bootstrap & Flexbox
-- A Password Access Tracker to sharpen DOM skills
+- A Password Access Tracker to sharpen DOM skills to next level.
 
 ---
 
