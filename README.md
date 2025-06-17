@@ -21,6 +21,11 @@ a done with all this
 - UI/UX Design | Responsive Layouts | Git & GitHub
 
 
+💻 Current Focus
+Exploring Supabase as a Backend-as-a-Service to build full-stack applications. Working on authentication, real-time databases, and integrating Supabase with my React projects.
+
+
+
 
 ## 📫 How to Reach Me
 - Email: **[stephenodongo532@gmail.com]**
