@@ -19,6 +19,16 @@ a done with all this
 ## 🛠️ Skills
 - HTML | CSS | JavaScript(vanilla) | Bootstrap | React (Learning)
 - UI/UX Design | Responsive Layouts | Git & GitHub
+🎓 Another Milestone Unlocked!
+
+I’m excited to share that I’ve just completed my Front End Development Libraries Certification from freeCodeCamp!
+
+After earning my JavaScript Algorithms and Data Structures certificate, this was the next step in sharpening my frontend skills. I’ve gained hands-on experience with React, Redux, jQuery, Bootstrap, and more — building projects like interactive calculators and dynamic UIs.
+
+Onward to the next challenge and more code adventures! 🚀
+
+#freeCodeCamp #FrontendDevelopment #React #WebDevelopment #CodingJourney
+
 
 
 💻 Current Focus
