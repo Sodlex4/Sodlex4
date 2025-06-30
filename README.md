@@ -6,7 +6,6 @@
 🚀 Building real-world projects to level up — one commit at a time.  
 🤝 Always open to collaborating on cool, meaningful front-end projects.  
 
----
 
 ## 💡 What I'm Working On
 - A GymApp built with HTML, CSS, JS, and React
