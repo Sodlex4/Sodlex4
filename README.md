@@ -1,32 +1,53 @@
- 👋 Hi, I’m Stephen Odonde (@Sodlex4).
+👋 Hi, I’m Stephen Odongo (@Sodlex4)
 
-💻 Self-taught Front-End Developer with a passion for turning ideas into interactive web apps.  
-🏋️‍♂️ Also a certified Gym Trainer and founder of Murang’a Pride Boxing Academy.  
-🌱 Currently mastering JavaScript and diving into React.  
-🚀 Building real-world projects to level up — one commit at a time.  
-🤝 Always open to collaborating on cool, meaningful front-end projects.  
+💻 Self-taught Front-End Developer now expanding into **Solana Web3** and blockchain application development.  
+🏋️‍♂️ Certified Gym Trainer & founder of **Murang’a Pride Boxing Academy** — building strength online and offline.  
+🌱 Mastering **JavaScript**, **React**, and diving into the world of **decentralized apps (dApps)**.  
+🚀 I bring ideas to life through real-world projects — now combining Web2 & Web3.  
+🤝 Open to collaborating on frontend or Web3 projects that solve real problems.
 
+---
 
-## 💡 What I'm Working On
-- A GymApp built with HTML, CSS, JS, and React
-- A Portfolio Website using Bootstrap & Flexbox
-- A Password Access Tracker to sharpen DOM skills to next level.
-a done with all this 
+## 💡 What I'm Currently Building
+
+- ✅ **GymApp** (HTML, CSS, JS, React) – Fitness platform MVP  
+- ✅ **Personal Portfolio** – Responsive & accessible design with Bootstrap + Flexbox  
+- ✅ **Password Access Tracker** – DOM practice project (completed)  
+- 🚧 **Solana Wallet Connector App** – React + @solana/web3.js to connect Phantom wallet on Devnet  
+- 🧪 **Web3 Experiments** – Sending SOL, fetching NFTs, and token interactions
+
+---
+
+📌 Always pushing code, learning in public, and experimenting with new tools.
+
 
 ---
 
 ## 🛠️ Skills
-- HTML | CSS | JavaScript(vanilla) | Bootstrap | React (Learning)
-- UI/UX Design | Responsive Layouts | Git & GitHub
-🎓 Another Milestone Unlocked!
 
-I’m excited to share that I’ve just completed my Front End Development Libraries Certification from freeCodeCamp!
+- **Languages & Tools:** HTML, CSS, JavaScript (Vanilla), Bootstrap, Git & GitHub  
+- **Frameworks & Libraries:** React (in progress), jQuery, Redux (basic), freeCodeCamp curriculum  
+- **Design:** UI/UX, Responsive Web Design, Flexbox, Mobile-first Layouts  
 
-After earning my JavaScript Algorithms and Data Structures certificate, this was the next step in sharpening my frontend skills. I’ve gained hands-on experience with React, Redux, jQuery, Bootstrap, and more — building projects like interactive calculators and dynamic UIs.
+---
 
-Onward to the next challenge and more code adventures! 🚀
+## 🎓 Milestone Unlocked!
 
-#freeCodeCamp #FrontendDevelopment #React #WebDevelopment #CodingJourney
+I'm thrilled to announce that I’ve completed the **Front End Development Libraries Certification** from **freeCodeCamp**! 🎉
+
+✅ This comes after earning my **JavaScript Algorithms and Data Structures** certificate — now leveling up with hands-on experience in:
+
+- 🧠 React & Redux
+- 🔧 Bootstrap & jQuery
+- ⚙️ Dynamic UI Components & Project-Based Learning
+
+Along the way, I built interactive apps like calculators, markdown previewers, and drum machines. This has boosted my confidence and frontend workflow.
+
+Next up: **Web3 Development with Solana + React** 🚀  
+Let’s keep pushing forward — one project at a time!
+
+#freeCodeCamp #React #WebDevelopment #Solana #CodingJourney
+
 
 
 
