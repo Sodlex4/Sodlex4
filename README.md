@@ -1,29 +1,13 @@
-Hi, I’m Stephen Odongo (@Sodlex4)
+## Stephen Odongo · @Sodlex4
 
-Backend-focused developer with a strong foundation in React, currently building real-world systems using Java and MySQL.
-I focus on writing clean backend logic, designing APIs, and working with databases to solve practical problems.
+Backend developer building real-world systems with Java and TypeScript.
 
-Projects & Impact
-M-PESA Simulation System (Java + MySQL)
-Built a transaction system supporting deposits, withdrawals, and transfers with database persistence and secure PIN handling (BCrypt).
-GymApp (React)
-Developed a responsive fitness platform MVP with reusable UI components and mobile-first design.
-Linux Dev Environment (Omarchy)
-Customized a keyboard-driven workflow to improve development speed and efficiency.
-Technical Skills
-Backend: Java, MySQL, REST API fundamentals
-Frontend: JavaScript, React, HTML, CSS
-Tools: Git, GitHub, Linux (CLI-based workflow)
-What I’m Focused On
-Building and structuring backend APIs (Spring Boot)
-Database design and integration
-Writing maintainable, production-style code
-Certifications
-freeCodeCamp — JavaScript Algorithms and Data Structures
-freeCodeCamp — Front End Development Libraries
-Contact
-Email: stephenodongo532@gmail.com
-GitHub: @Sodlex4
-Additional
+**Active** — Hungarian Bites e-commerce: Express/TypeScript API, React admin dashboard, MySQL, Docker.
 
-Gym trainer and founder of Murang’a Pride Boxing Academy — bringing discipline and consistency into both fitness and software development.
+**Java/Spring Boot** — M-PESA payment simulation with JWT auth, transactions, idempotency, rate limiting.
+
+**Stack** · Java · Spring Boot · TypeScript · Express · React · MySQL · Git · Linux
+
+**Certifications** · freeCodeCamp — JavaScript Algorithms & Data Structures · Front End Development Libraries
+
+Founder, Murang'a Pride Boxing Academy.
