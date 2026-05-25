@@ -1,6 +1,6 @@
 ## Stephen Odongo · @Sodlex4
 
-Backend developer building real-world systems with Java and TypeScript.
+Self-taught developer building real-world systems with Java, Spring Boot, TypeScript, React & Linux. Problem-solver turning ideas into production.
 
 **Active** — Hungarian Bites e-commerce: Express/TypeScript API, React admin dashboard, MySQL, Docker.
 
